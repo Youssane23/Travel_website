@@ -1,0 +1,42 @@
+{
+    "app":{
+        "title":"Voir le monde comme un local",
+        "text":"this is a text",
+        "button":"Anglais",
+        "home-caption":"Trouver un guide local consectetur",
+        "home-header01":"Voir le monde comme un local",
+        "home-caption01":"Découvrez le monde comme un habitant local, explorez des lieux authentiques et plongez dans la richesse culturelle qui rend chaque coin de la planète unique.",
+        "all":"Tout",
+        "popular":"Populaire",
+        "featured":"En vedette",
+        "trending":"Tendances",
+        "previous":"Précédente",
+        "next":"Suivante",
+        "customer-testimonial":"Témoignage client",
+        "home-quote":"C'est la deuxième fois que je fais appel à Traveler, et je suis toujours impressionné par leur service exceptionnel. Professionnalisme et efficacité au rendez-vous !",
+        "home-header02":"À moins qu'ils ne soient aveuglés par le désir, ils ne sortiront pas",
+        "home-header03":"Le voyage est la seule dépense qui vous rend plus riche en souvenirs et en expériences infinies.",
+        "quote-txt":"Le monde est trop grand pour rester dans un seul endroit, et la vie est trop courte pour ne pas voir ce qui se trouve au-delà de l'horizon",
+        "read-more":"En savoir plus",
+        "button-guide":"Trouver un guide local",
+        "spotlight-destinations":"Spotlight destinations",
+        "hand-picked-guides":"assistance 24/7",
+        "contact":"Contact",
+        "features":"Fonctionnalités",
+        "how-it-works":"Fonctionnement",
+        "prices":"tarifs", 
+        "destination":"Destination",
+        "group-size":"Taille du groupe",
+        "support":"assistance 24/7",
+        "private-tours":"visites privées",
+        "greece":"Découvrez la beauté enchanteresse de la Crète, une île grecque imprégnée d'histoire, de culture et de paysages à couper le souffle.",
+        "spain":"Explorez la magnifique ville de Barcelone, en Espagne. Plongez-vous dans l'effervescence de son architecture unique, imprégnée de l'influence de Gaudí.",
+        "peru":"Découvrez la majesté mystique de Machu Picchu au Pérou. Perché au sommet des montagnes des Andes, ce site archéologique incroyable vous transporte dans l'histoire ancienne des Incas.",
+        "qatar":"Explorez la modernité et la richesse culturelle de Doha, au Qatar. Cette métropole dynamique allie harmonieusement tradition et innovation, offrant une expérience unique.",
+        "greecerh":"Découvrez la splendeur historique de Rhodes, en Grèce. Cette île enchanteresse de la mer Égée regorge de vestiges antiques, de ruelles médiévales pittoresques et de plages aux eaux cristallines.",
+        "newyork":"Explorez les repères emblématiques et l'énergie vibrante de la ville de New York, aux États-Unis. Des gratte-ciels imposants à la diversité culturelle, la ville promet une expérience inoubliable."
+
+        
+        
+    }
+}
